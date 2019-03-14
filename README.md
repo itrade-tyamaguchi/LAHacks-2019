@@ -12,6 +12,10 @@ The team that demonstrates and executes the most innovative feature, concept or 
 * Quality and Polish: How cool does your idea look and does it work?
 ## Some of iTradeNetwork's Products
 ### Fresh
+Ensure consistent food quality with iTrade’s cutting-edge inspection analytics solution.
+
 https://www.youtube.com/watch?v=eMzx0VvPSsw
 ### Trace
+Ensure food safety and compliance on the industry’s leading food traceability software.
+
 https://www.youtube.com/watch?v=63q2zPyr0AM
