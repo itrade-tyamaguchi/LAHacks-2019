@@ -10,6 +10,10 @@ The team that demonstrates and executes the most innovative feature, concept or 
   * Corporate responsibility: Can your product make world a better place?
     * Can your product bring awareness to reducing waste, healthier lifestyles, sustainability, etc.? Explain your reasoning.
 * Quality and Polish: How cool does your idea look and does it work?
+## Prizes
+For each member of the winning team:
+  * $250 Visa Gift Card
+  * Bose Micro Soundlink Portable Speaker
 ## Some of iTradeNetwork's Products
 ### Fresh
 Ensure consistent food quality with iTrade’s cutting-edge inspection analytics solution.
