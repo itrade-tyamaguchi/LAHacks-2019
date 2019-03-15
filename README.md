@@ -16,10 +16,10 @@ For each member of the winning team:
   * Bose Micro Soundlink Portable Speaker
 ## Some of iTradeNetwork's Products
 ### Fresh
-Ensure consistent food quality with iTrade’s cutting-edge inspection analytics solution.
+iTraceFresh is the industry leading traceability platform for fresh produce, providing first to last mile traceability information to suppliers, buyers, trading partners, and consumers. As food recalls have become one of the industry’s biggest threats to profitability, compliance has become an important industry standard. iTraceFresh offers quick and effective traceability solutions that can save company time and money, and even engage customers in the process
 
 https://www.youtube.com/watch?v=eMzx0VvPSsw
 ### Trace
-Ensure food safety and compliance on the industry’s leading food traceability software.
+iTradeFresh is the first comprehensive quality inspection SaaS solution for fresh produce. iTradeFresh ensures consistent produce quality by standardizing and guiding inspection processes, automating notifications, providing clear issue and vendor insights, and helping buyers source and procure the best product available on the market.
 
 https://www.youtube.com/watch?v=63q2zPyr0AM
