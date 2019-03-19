@@ -15,11 +15,11 @@ For each member of the winning team:
   * $250 Visa Gift Card
   * Bose Micro Soundlink Portable Speaker
 ## Some of iTradeNetwork's Products
-### Fresh
+### Trace
 iTraceFresh is the industry leading traceability platform for fresh produce, providing first to last mile traceability information to suppliers, buyers, trading partners, and consumers. As food recalls have become one of the industry’s biggest threats to profitability, compliance has become an important industry standard. iTraceFresh offers quick and effective traceability solutions that can save company time and money, and even engage customers in the process
 
 https://www.youtube.com/watch?v=eMzx0VvPSsw
-### Trace
+### Fresh
 iTradeFresh is the first comprehensive quality inspection SaaS solution for fresh produce. iTradeFresh ensures consistent produce quality by standardizing and guiding inspection processes, automating notifications, providing clear issue and vendor insights, and helping buyers source and procure the best product available on the market.
 
 https://www.youtube.com/watch?v=63q2zPyr0AM
