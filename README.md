@@ -7,7 +7,7 @@ The team that demonstrates and executes the most innovative feature, concept or 
 * Return on Investment: What is the business reasoning for your idea?
   * Profitability: How can this product make money?
     * Can your idea be applied to help drive revenue, brand awareness, usage, etc. for our product(s)? Explain your reasoning.
-  * Corporate responsibility: Can your product make world a better place?
+  * Corporate responsibility: Can your product make the world a better place?
     * Can your product bring awareness to reducing waste, healthier lifestyles, sustainability, etc.? Explain your reasoning.
 * Quality and Polish: How cool does your idea look and does it work?
 ## Prizes
