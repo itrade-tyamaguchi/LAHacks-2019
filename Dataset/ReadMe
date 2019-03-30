@@ -1,0 +1,6 @@
+# About
+This dataset consists of over 200k individual entries depicting real world food inspection results for over 500MM cases of food.
+
+
+# Instructions
+Come up with a way of predicting whether food will be rejected. This correlates to real world food waste. 
