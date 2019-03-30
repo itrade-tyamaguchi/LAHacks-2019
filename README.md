@@ -23,3 +23,7 @@ https://www.youtube.com/watch?v=eMzx0VvPSsw
 iTradeFresh is the first comprehensive quality inspection SaaS solution for fresh produce. iTradeFresh ensures consistent produce quality by standardizing and guiding inspection processes, automating notifications, providing clear issue and vendor insights, and helping buyers source and procure the best product available on the market.
 
 https://www.youtube.com/watch?v=63q2zPyr0AM
+
+# FAQ
+1. If you have questions, please feel to come up to our table. If we are not at our table (yes we need sleep too), please send your questions to tyamaguchi@itradenetwork.com
+2. We will be on campus from 2 PM to 5 PM on Saturday. If we are getting a lot of questions, we will expand the hours.
